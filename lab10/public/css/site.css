@@ -1,0 +1,25 @@
+body {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+main {
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 2;
+}
+
+user {
+    position: relative;
+    left: 33%;
+}

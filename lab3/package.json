@@ -1,0 +1,12 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Fanyu Wang 10427157",
+  "license": "ISC"
+}

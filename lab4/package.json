@@ -1,0 +1,16 @@
+{
+  "name": "cs-546-lab-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Fanyu Wang 10427157",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.2",
+    "uuid": "^3.2.1"
+  }
+}
